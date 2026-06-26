@@ -1,4 +1,4 @@
-# CMYnetwork 红梅机场官网地址（2026年月日更新）
+# CMYnetwork 红莓机场官网地址（2026年06月26日更新）
 官网地址：[cmy3.network](https://cmy3.network/)<br>
 ## 邀请码
 
