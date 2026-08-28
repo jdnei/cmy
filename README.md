@@ -1,5 +1,5 @@
 [![imgage](https://github.com/jdnei/cmy/blob/main/cmy/cmy.jpg?raw=ture)](https://to.iix.im/cmy01)
-# CMYnetwork 红莓机场官网地址(2026年8月27日更新)
+# CMYnetwork 红莓机场官网地址(2026年8月28日更新)
 
 #### 机场最近不太稳定，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
 
