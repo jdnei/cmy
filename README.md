@@ -1,3 +1,6 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 [![imgage](https://github.com/jdnei/cmy/blob/main/cmy/cmy.jpg?raw=ture)](https://to.iix.im/cmy01)
 # CMYnetwork 红莓机场官网地址(2026年11月2日更新)
 
