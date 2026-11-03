@@ -2,7 +2,7 @@
 
 [![CMY Network VPN](https://github.com/jdnei/cmy/blob/main/cmy/cmy.jpg?raw=true)](https://to.iix.im/cmy01)
 
-# Официальный сайт CMY Network VPN (обновлено 2 ноября 2026 года)
+# Официальный сайт CMY Network VPN (обновлено 3 ноября 2026)
 
 #### ⚠️ В последнее время сервис работает не очень стабильно. Рекомендуемая альтернатива: [ChuiXueCloud](https://github.com/jdnei/chuixuecloud)<br>
 
