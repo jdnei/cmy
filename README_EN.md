@@ -1,44 +1,38 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-[![فیلترشکن CMY Network](https://github.com/jdnei/cmy/blob/main/cmy/cmy.jpg?raw=true)](https://to.iix.im/cmy01)
+[![CMY Network VPN](https://github.com/jdnei/cmy/blob/main/cmy/cmy.jpg?raw=true)](https://to.iix.im/cmy01)
 
-# وب‌سایت رسمی فیلترشکن CMY Network (به‌روزرسانی: ۲ نوامبر ۲۰۲۶)
+# CMY Network VPN Official Website (Updated November 2, 2026)
 
-#### ⚠️ این سرویس اخیراً تا حدودی ناپایدار بوده است. جایگزین پیشنهادی: [ChuiXueCloud](https://github.com/jdnei/chuixuecloud)<br>
+#### ⚠️ This VPN service has been somewhat unstable recently. Recommended alternative: [ChuiXueCloud](https://github.com/jdnei/chuixuecloud)<br>
 
-وب‌سایت رسمی: [cmy3.network](https://to.iix.im/cmy01)<br>
+Official Website: [cmy3.network](https://to.iix.im/cmy01)<br>
 
-## کد دعوت
+## Invitation Code
 
-## معرفی
+## Introduction
 
-CMY Network یک سرویس VPN است که برای وب‌گردی روزمره، تماشای محتوای آنلاین، دورکاری بین‌المللی و دسترسی به ابزارهای هوش مصنوعی طراحی شده است.
+CMY Network is a VPN service provider designed for everyday internet browsing, streaming, international remote work, and access to AI tools. It focuses on stable connections, a wide selection of proxy nodes, and compatibility across multiple platforms.
 
-این سرویس بر ارائه اتصال پایدار، تنوع سرورها و سازگاری با پلتفرم‌های مختلف تمرکز دارد.
+The service generally offers nodes in popular regions, including Hong Kong, Japan, Singapore, Taiwan, and the United States. It is suitable for accessing international websites, watching streaming content on YouTube and Netflix, and using overseas AI services such as ChatGPT and Gemini.
 
-CMY Network معمولاً سرورهایی در مناطق پرطرفدار مانند هنگ‌کنگ، ژاپن، سنگاپور، تایوان و ایالات متحده ارائه می‌دهد.
+## Advantages
 
-این سرویس برای دسترسی به وب‌سایت‌های خارجی، تماشای محتوای YouTube و Netflix و استفاده از ابزارهای هوش مصنوعی مانند ChatGPT و Gemini مناسب است.
+CMY Network generally supports subscription imports through popular proxy clients and can be used on Windows, macOS, iOS, and Android devices.
 
-## مزایا
+After purchasing a subscription plan, users can import the subscription URL into a compatible client to connect to available nodes. The setup process is relatively straightforward, making it suitable for beginners and users who need a stable internet connection for long-term use.<br>
 
-CMY Network معمولاً از وارد کردن لینک اشتراک در کلاینت‌های رایج پروکسی پشتیبانی می‌کند و روی دستگاه‌های Windows، macOS، iOS و Android قابل استفاده است.
+CMY Network is particularly suitable for everyday browsing, HD video streaming, remote work, and multi-device usage.
 
-پس از خرید اشتراک، کاربران می‌توانند لینک اشتراک خود را در یک کلاینت سازگار وارد کرده و به سرورهای موجود متصل شوند.
+Compared with setting up a personal VPS, a managed VPN subscription eliminates the need to maintain servers and network routes independently, making configuration and daily operation more convenient.<br>
 
-فرایند راه‌اندازی نسبتاً ساده است و به همین دلیل، این سرویس برای کاربران تازه‌کار و افرادی که به اتصال اینترنت پایدار برای استفاده طولانی‌مدت نیاز دارند، مناسب است.<br>
+## Subscription Plans
 
-از نظر کاربرد، CMY Network بیشتر برای وب‌گردی روزانه، تماشای ویدئو با کیفیت بالا، دورکاری و اتصال چندین دستگاه مناسب است.
-
-در مقایسه با راه‌اندازی VPS شخصی، استفاده از سرویس VPN آماده نیازی به نگهداری مستقل سرورها و مسیرهای شبکه ندارد؛ بنابراین پیکربندی و استفاده روزمره از آن ساده‌تر است.<br>
-
-## طرح‌های اشتراک
-
-| جزئیات طرح | Air / اقتصادی | Pro / حرفه‌ای | Extreme / ویژه |
+| Plan Details | Air / Entry | Pro / Professional | Extreme / Premium |
 |---|---|---|---|
-| اشتراک ماهانه | — | ¥49، ماهانه 350 گیگابایت | ¥88، ماهانه 800 گیگابایت |
-| اشتراک سه‌ماهه | ¥75، ماهانه 150 گیگابایت | ¥147، ماهانه 350 گیگابایت | ¥264، ماهانه 800 گیگابایت |
-| اشتراک شش‌ماهه | ¥270، ماهانه 150 گیگابایت | ¥494، ماهانه 400 گیگابایت | ¥845، ماهانه 1200 گیگابایت |
-| اشتراک سالانه | ¥810، ماهانه 150 گیگابایت | ¥1412، ماهانه 400 گیگابایت | ¥2376، ماهانه 1200 گیگابایت |
-| بسته ترافیک اضافی | ¥10 برای 50 گیگابایت؛ فقط همراه با اشتراک فعال قابل استفاده است و خرید جداگانه آن کاربردی ندارد | ¥10 برای 50 گیگابایت؛ فقط همراه با اشتراک فعال قابل استفاده است و خرید جداگانه آن کاربردی ندارد | ¥10 برای 50 گیگابایت؛ فقط همراه با اشتراک فعال قابل استفاده است و خرید جداگانه آن کاربردی ندارد |
-| امکانات اشتراک | ترافیک عادی نامحدود؛ مسیرهای بین‌المللی با بهینه‌سازی سبک؛ دسترسی به اتصالات مستقیم Trojan؛ پشتیبانی از ۲ آدرس IP عمومی به‌صورت هم‌زمان | دسترسی به خطوط مستقیم بهینه‌شده CN2 و خطوط خصوصی IPLC مخصوص استریم؛ سرورهای دارای IP بومی در هنگ‌کنگ، تایوان، ژاپن و آمریکا؛ پشتیبانی از ۳ آدرس IP عمومی به‌صورت هم‌زمان | دسترسی به خطوط مستقیم بهینه‌شده CN2 و خطوط خصوصی IPLC مخصوص استریم؛ سرورهای دارای IP بومی در هنگ‌کنگ، تایوان، ژاپن و آمریکا؛ خطوط اختصاصی IEPL برای استریم و بازی؛ ارائه رایگان حساب‌های Netflix / Hulu و سایر مزایا؛ پشتیبانی از ۴ آدرس IP عمومی به‌صورت هم‌زمان؛ پشتیبانی فنی از راه دور به‌صورت رایگان؛ پشتیبانی آنلاین مشتریان به‌صورت ۱۲×۳۶۵ |
+| Monthly | — | ¥49, 350 GB/month | ¥88, 800 GB/month |
+| Quarterly | ¥75, 150 GB/month | ¥147, 350 GB/month | ¥264, 800 GB/month |
+| Semiannual | ¥270, 150 GB/month | ¥494, 400 GB/month | ¥845, 1200 GB/month |
+| Annual | ¥810, 150 GB/month | ¥1412, 400 GB/month | ¥2376, 1200 GB/month |
+| Traffic Add-on | ¥10 / 50 GB; must be used with an existing subscription plan; cannot be purchased or used separately | ¥10 / 50 GB; must be used with an existing subscription plan; cannot be purchased or used separately | ¥10 / 50 GB; must be used with an existing subscription plan; cannot be purchased or used separately |
+| Plan Benefits | Unlimited regular traffic; lightweight internationally optimized routes; access to direct Trojan connections; supports 2 simultaneous public IP addresses | Access to optimized CN2 direct connections and IPLC private streaming lines; native IP nodes in Hong Kong, Taiwan, Japan, and the United States; supports 3 simultaneous public IP addresses | Access to optimized CN2 direct connections and IPLC private streaming lines; native IP nodes in Hong Kong, Taiwan, Japan, and the United States; IEPL dedicated lines for streaming and gaming; complimentary Netflix / Hulu and other benefit accounts; supports 4 simultaneous public IP addresses; free remote technical assistance; 12×365 online customer support |
