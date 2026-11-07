@@ -1,7 +1,7 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
 [![فیلترشکن CMY Network](https://github.com/jdnei/cmy/blob/main/cmy/cmy.jpg?raw=true)](https://to.iix.im/cmy01)
-# وب‌سایت رسمی فیلترشکن CMY Network(به‌روزرسانی 6 نوامبر 2026)
+# وب‌سایت رسمی فیلترشکن CMY Network(به‌روزرسانی 7 نوامبر 2026)
 #### ⚠️ این سرویس اخیراً تا حدودی ناپایدار بوده است. جایگزین پیشنهادی: [ChuiXueCloud](https://github.com/jdnei/chuixuecloud)<br>
 
 وب‌سایت رسمی: [cmy3.network](https://to.iix.im/cmy01)<br>
